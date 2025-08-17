@@ -128,14 +128,14 @@
       "downloads": 0,
       "abstract": "PDF file \"2014 - liking other drivers' behavior while driving.pdf\" has been uploaded but content could not be parsed. Please manually edit relevant information. Possible reasons: file corruption, password protection, or unsupported PDF format.",
       "doi": "",
-      "pdfUrl": "https://raw.githubusercontent.com/formicrogses/literature-manager-data/main/pdfs/paper-5-1755446751109-82k51.pdf",
+      "pdfUrl": "https://raw.githubusercontent.com/formicrogses/literature-manager-data/main/pdfs/paper-5-1755446764816-nefcw.pdf",
       "websiteUrl": "#",
       "thumbnail": null,
       "pdfFileSize": 2845320,
       "isPersistentPDF": true,
       "id": 5,
       "isCloudSynced": true,
-      "syncTime": "2025-08-17T16:05:54.683Z"
+      "syncTime": "2025-08-17T16:06:08.170Z"
     },
     {
       "title": "2012 - Sleight of hand perception of finger motion from reduced marker sets",
@@ -153,12 +153,14 @@
       "downloads": 0,
       "abstract": "PDF file \"2012 - Sleight of hand perception of finger motion from reduced marker sets.pdf\" has been uploaded but content could not be parsed. Please manually edit relevant information. Possible reasons: file corruption, password protection, or unsupported PDF format.",
       "doi": "",
-      "pdfUrl": "#",
+      "pdfUrl": "https://raw.githubusercontent.com/formicrogses/literature-manager-data/main/pdfs/paper-6-1755446769172-7vdju.pdf",
       "websiteUrl": "#",
       "thumbnail": null,
       "pdfFileSize": 8637580,
       "isPersistentPDF": true,
-      "id": 6
+      "id": 6,
+      "isCloudSynced": true,
+      "syncTime": "2025-08-17T16:06:14.138Z"
     },
     {
       "title": "2020 - The intuitive grasp interface design and evaluation of micro-gestures on the steering wheel for driving scenario",
@@ -176,15 +178,17 @@
       "downloads": 0,
       "abstract": "PDF file \"2020 - The intuitive grasp interface design and evaluation of micro-gestures on the steering wheel for driving scenario.pdf\" has been uploaded but content could not be parsed. Please manually edit relevant information. Possible reasons: file corruption, password protection, or unsupported PDF format.",
       "doi": "",
-      "pdfUrl": "#",
+      "pdfUrl": "https://raw.githubusercontent.com/formicrogses/literature-manager-data/main/pdfs/paper-7-1755446775144-2c8ne.pdf",
       "websiteUrl": "#",
       "thumbnail": null,
       "pdfFileSize": 1765293,
       "isPersistentPDF": true,
-      "id": 7
+      "id": 7,
+      "isCloudSynced": true,
+      "syncTime": "2025-08-17T16:06:17.344Z"
     }
   ],
-  "lastUpdate": "2025-08-17T16:06:01.367Z",
+  "lastUpdate": "2025-08-17T16:06:58.204Z",
   "totalCount": 7,
   "version": "1.0",
   "description": "Public research papers database - automatically updated"
