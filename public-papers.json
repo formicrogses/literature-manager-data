@@ -1,0 +1,79 @@
+{
+  "papers": [
+    {
+      "title": "2022 - Keep in touch combining touch interaction with thumb-to-finger µGestures for people with visual impairment",
+      "authors": [
+        "Unknown Author"
+      ],
+      "year": 2025,
+      "journal": "Unknown Journal",
+      "researchArea": "Accessible Interaction",
+      "methodology": "Experimental",
+      "studyType": "Empirical",
+      "keywords": [],
+      "citations": 0,
+      "hIndex": 0,
+      "downloads": 0,
+      "abstract": "PDF file \"2022 - Keep in touch combining touch interaction with thumb-to-finger µGestures for people with visual impairment.pdf\" has been uploaded but content could not be parsed. Please manually edit relevant information. Possible reasons: file corruption, password protection, or unsupported PDF format.",
+      "doi": "",
+      "pdfUrl": "https://raw.githubusercontent.com/formicrogses/literature-manager-data/main/pdfs/paper-1-1755443414027-nqx5c.pdf",
+      "websiteUrl": "#",
+      "thumbnail": null,
+      "pdfFileSize": 1791176,
+      "isPersistentPDF": true,
+      "id": 1,
+      "isCloudSynced": true,
+      "syncTime": "2025-08-17T15:10:17.641Z"
+    },
+    {
+      "title": "2006 - The mechanical design and experiments of HITDLR prosthetic hand",
+      "authors": [
+        "Unknown Author"
+      ],
+      "year": 2025,
+      "journal": "Unknown Journal",
+      "researchArea": "Accessible Interaction",
+      "methodology": "Experimental",
+      "studyType": "Empirical",
+      "keywords": [],
+      "citations": 0,
+      "hIndex": 0,
+      "downloads": 0,
+      "abstract": "PDF file \"2006 - The mechanical design and experiments of HITDLR prosthetic hand.pdf\" has been uploaded but content could not be parsed. Please manually edit relevant information. Possible reasons: file corruption, password protection, or unsupported PDF format.",
+      "doi": "",
+      "pdfUrl": "#",
+      "websiteUrl": "#",
+      "thumbnail": null,
+      "pdfFileSize": 4355925,
+      "isPersistentPDF": true,
+      "id": 2
+    },
+    {
+      "title": "2020 - Grasp posture control of wearable extra robotic fingers with flex sensors based on neural network",
+      "authors": [
+        "Unknown Author"
+      ],
+      "year": 2025,
+      "journal": "Unknown Journal",
+      "researchArea": "Accessible Interaction",
+      "methodology": "Experimental",
+      "studyType": "Empirical",
+      "keywords": [],
+      "citations": 0,
+      "hIndex": 0,
+      "downloads": 0,
+      "abstract": "PDF file \"2020 - Grasp posture control of wearable extra robotic fingers with flex sensors based on neural network.pdf\" has been uploaded but content could not be parsed. Please manually edit relevant information. Possible reasons: file corruption, password protection, or unsupported PDF format.",
+      "doi": "",
+      "pdfUrl": "#",
+      "websiteUrl": "#",
+      "thumbnail": null,
+      "pdfFileSize": 6296085,
+      "isPersistentPDF": true,
+      "id": 3
+    }
+  ],
+  "lastUpdate": "2025-08-17T15:10:23.568Z",
+  "totalCount": 3,
+  "version": "1.0",
+  "description": "Public research papers database - automatically updated"
+}
